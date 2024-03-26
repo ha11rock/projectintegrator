@@ -1,1 +1,1 @@
-# projectintegrator
+# Migthy Ducks Hockey League
